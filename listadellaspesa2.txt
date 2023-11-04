@@ -1,7 +1,7 @@
 sono presenti nuovi ingredienti
 
 <<<<<<< HEAD
-marmellata
+marmellata di fragola
 sale
 =======
 ----

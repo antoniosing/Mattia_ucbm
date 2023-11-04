@@ -1,9 +1,9 @@
 sono presenti nuovi ingredienti
 
-<<<<<<< HEAD
+
 marmellata di pesca
+marmellata di fragola
 sale
-=======
 ----
 sapone
 spugne
@@ -17,4 +17,4 @@ rastrello
 quarzo
 filo
 concime
->>>>>>> giardino
+

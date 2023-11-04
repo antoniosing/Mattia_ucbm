@@ -8,6 +8,7 @@ sale
 sapone
 spugne
 pasticche lavastoviglie
+soncino
 profumo
 detersivo lavatrice
 

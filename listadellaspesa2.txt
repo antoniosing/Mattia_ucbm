@@ -18,4 +18,8 @@ rastrello
 quarzo
 filo
 concime
+cemento bianco
+spatola
+sabbia
+terreno
 
